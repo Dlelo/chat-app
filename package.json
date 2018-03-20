@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Real time chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlelo/chat-app.git"
+  },
+  "author": "Donattah Akinyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlelo/chat-app/issues"
+  },
+  "homepage": "https://github.com/Dlelo/chat-app#readme"
+}
